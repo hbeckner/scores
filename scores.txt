@@ -1,0 +1,293 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5CA5-8013
+
+ Directory of C:\Documents and Settings\hbeckner\My Documents\Scores
+
+01/07/2014  10:30 AM    <DIR>          .
+01/07/2014  10:30 AM    <DIR>          ..
+03/24/2011  12:50 PM            39,230 A Call To Praise.sib
+11/15/2010  02:28 PM            81,449 A Mighty Fortress Ab.sib
+05/06/2008  08:44 AM            71,459 A Mighty Fortress Bb.sib
+06/07/2012  05:43 PM            81,567 A Mighty Fortress C.sib
+09/17/2013  05:14 AM            68,986 A Mighty Fortress TC.sib
+05/03/2008  08:17 PM            71,469 A Mighty Fortress.sib
+09/12/2013  12:09 PM            76,211 Alive Forever Amen.sib
+10/25/2013  12:15 PM            53,693 All Hail the Power.sib
+07/31/2013  07:04 AM           104,604 All the Earth.sib
+09/02/2009  11:55 AM            70,765 All Things.sib
+09/22/2011  06:47 AM            80,000 Almighty F.sib
+09/14/2011  01:06 PM            83,131 Almighty.sib
+11/05/2013  02:54 PM            51,474 Amazing Grace My Chains are Gone in D.sib
+11/05/2013  01:17 PM            49,426 Amazing Grace My Chains are Gone.sib
+06/21/2011  03:03 PM            34,344 America the Beautiful.sib
+08/07/2013  12:18 PM            76,192 Ancient of Days C.sib
+01/06/2010  12:15 PM            76,153 Ancient of Days.sib
+02/22/2011  08:53 PM            51,197 Anthem of Praise.sib
+12/18/2013  09:20 AM            46,142 Away in a Manger.sib
+10/02/2012  11:58 AM            87,244 Awesome In this Place E.sib
+09/12/2013  12:16 PM            87,414 Awesome In this Place.sib
+11/20/2013  08:57 AM            47,606 Baby It's Cold Outside.sib
+01/07/2014  08:55 AM    <DIR>          Backup Scores
+10/13/2010  07:48 AM            83,952 Be Bold, Be Strong.sib
+08/09/2012  02:52 PM            33,862 Be Still My Soul.sib
+09/06/2009  05:59 PM            72,039 Be Strong in the Lord.sib
+08/08/2013  09:31 AM            47,452 Be Thou My Vision.sib
+10/10/2013  07:42 AM            61,348 Because He Lives in F to G.sib
+10/09/2013  02:54 PM            65,378 Because He Lives in G to D.sib
+10/08/2013  09:43 AM            62,528 Because He Lives.sib
+05/27/2011  12:30 PM            83,690 Bless His Holy Name.sib
+08/08/2013  01:36 PM            57,943 Bless the Lord O My Soul 2.sib
+08/07/2013  12:20 PM            69,936 Bless the Lord O My Soul.sib
+01/12/2012  10:08 AM            91,177 Blessed Assurance Bb.sib
+01/02/2014  09:12 PM            77,228 Blessed Assurance Bradley Knight.sib
+08/30/2011  11:16 AM            89,470 Blessed Assurance.sib
+09/25/2013  09:35 AM            51,568 Blessed Be the Lord God Almighty (Chorus).sib
+12/13/2012  01:29 PM            61,734 Born Is the King Its Christmas.sib
+02/09/2011  11:01 AM           108,186 Breathe On Me.sib
+11/14/2013  03:01 PM            44,565 Brethren We Have Met to Worship G - Ab.sib
+11/14/2013  01:46 PM            42,562 Brethren We Have Met to Worship Working 2.sib
+11/14/2013  01:43 PM            44,149 Brethren We Have Met to Worship Working.sib
+11/08/2013  03:43 PM            49,947 Brethren We Have Met to Worship.sib
+09/20/2012  12:42 PM            37,376 Catalog.xls
+04/11/2013  12:23 PM            10,408 Catalog_04102013.htm
+04/10/2013  09:29 AM            13,644 Catalog_04102013.xlsx
+05/16/2013  10:05 AM    <DIR>          Catalog_04102013_files
+10/30/2013  01:56 PM            85,560 Celebrate Jesus.sib
+03/26/2013  02:39 PM            48,437 Christ the Lord is Risen Today Traditional Piano Reduction.sib
+03/26/2013  02:33 PM            61,788 Christ the Lord is Risen Today Traditional.sib
+04/05/2012  09:50 AM            38,932 Christ the Lord is Risen Today.sib
+05/16/2013  10:05 AM    <DIR>          Christmas
+12/18/2013  09:11 AM            55,134 Come and Behold Him.sib
+06/05/2010  03:38 PM            95,606 Come Christians Join to Sing.sib
+10/25/2013  02:12 PM            51,691 Come into His Presence.sib
+03/03/2011  09:32 AM            80,167 Come Thou Fount D.sib
+06/15/2009  07:05 PM            70,378 Come Thou Fount.sib
+10/28/2012  08:53 PM            58,500 Copy of Born Is the King Its Christmas.sib
+10/08/2012  07:56 PM            55,992 Copy of Do You Hear What I Hear.sib
+11/08/2012  09:11 PM            72,342 Copy of talkin bout Jesus.sib
+06/05/2012  08:38 PM            65,563 Creation Sings.sib
+11/25/2013  10:10 AM            54,669 Crown Him King of Kings.sib
+03/30/2010  10:32 AM            81,691 Days of Elijah G.sib
+11/14/2013  08:36 PM            97,247 Days of Elijah.sib
+12/13/2012  02:37 PM            55,917 Do You Hear What I Hear.sib
+08/27/2013  07:48 PM            45,435 Doxology.sib
+05/16/2013  10:05 AM    <DIR>          Easter 2009
+05/16/2013  10:04 AM    <DIR>          Easter2011
+10/09/2010  07:42 PM            85,589 Everlasting God Revised.sib
+06/09/2010  06:37 AM            95,234 Everlasting God.sib
+05/20/2013  08:01 AM             1,846 Example Scores.lnk
+06/12/2008  06:27 PM            70,342 Faith of Our Fathers.sib
+04/07/2011  09:51 AM            60,384 Feels Like Redemption.sib
+12/13/2012  09:03 AM            52,648 Forever King.sib
+03/02/2011  10:53 AM            97,421 Friend of God.sib
+09/12/2011  07:58 PM            42,780 From the Inside Out.sib
+11/17/2010  10:19 AM            81,107 Get All Excited in G.sib
+06/07/2010  12:04 PM            80,824 Get All Excited.sib
+11/21/2013  09:56 AM            79,035 Give Thanks (Medley).sib
+12/03/2013  07:20 AM            56,478 Glorify the Lord.sib
+11/20/2011  07:26 PM            90,913 Glorious Day in C.sib
+10/05/2010  07:23 PM            91,078 Glorious Day.sib
+01/05/2011  08:52 AM            98,565 Glory All Glory.sib
+09/23/2013  11:28 AM            56,124 Glory to the King.sib
+09/23/2009  06:34 AM            72,115 Glory to the Lord.sib
+12/09/2013  06:57 PM            46,721 Go Tell It on the Mountain.sib
+09/21/2012  08:36 AM            50,711 God and God Alone.sib
+06/28/2011  09:20 AM            46,202 God Bless America.sib
+09/26/2012  09:03 AM            73,965 God Coming Down.sib
+07/05/2011  07:57 PM            37,641 God Lead the Dear Children Along.sib
+10/11/2010  08:25 PM            78,026 God Leads Us Along.sib
+09/12/2013  12:01 PM            44,591 God of Our Fathers Eb.sib
+06/21/2011  02:39 PM            37,412 God of Our Fathers F.sib
+12/09/2013  07:40 PM            46,915 Good Christian Men Rejoice.sib
+11/26/2013  11:24 AM            81,205 Good News Great Joy.sib
+01/27/2009  02:44 PM            73,305 Great and Mighty.sib
+10/14/2013  07:20 PM            60,473 Great I Am Piano Reduction.sib
+10/15/2013  08:24 AM            90,801 Great I Am.sib
+05/04/2011  01:16 PM            84,191 Great is the Lord Bb.sib
+09/17/2013  05:44 AM            82,474 Great is the Lord.sib
+01/05/2011  09:00 AM            84,316 Great Is Thy Faithfulness.sib
+10/05/2011  10:06 AM            79,082 Greater Is He That Is in Me.sib
+01/07/2014  08:55 AM            49,580 Guide Me O Thou Great Jehovah.sib
+03/18/2013  12:14 PM            73,095 Hallelujah to the Lamb.sib
+03/14/2012  10:00 AM            37,016 Hallelujah What a Savior.sib
+09/19/2013  01:03 PM            64,460 Hallelujahs.sib
+12/05/2013  01:33 PM            58,695 Hark the Herald Angels Sing Piano Reduction.sib
+12/06/2013  09:21 AM            67,741 Hark the Herald Angels Sing.sib
+03/01/2012  09:45 PM            89,411 He Has Made Me Glad D.sib
+01/27/2008  03:10 PM            74,177 He Has Made Me Glad.sib
+10/02/2013  12:01 PM            50,537 He Is Able (Choir Piano Reduction).sib
+10/02/2013  12:04 PM            46,180 He Is Able (Lead Sheet).sib
+09/30/2013  09:00 PM            62,031 He Is Able.sib
+07/29/2010  06:44 AM            84,964 He Is Lord.sib
+04/05/2012  11:05 AM            33,770 He Lives Chorus.sib
+03/27/2013  12:28 PM            56,711 He s My Son in F Piano Reduction.sib
+03/26/2013  08:52 AM            69,084 He s My Son in F.sib
+03/18/2013  12:11 PM            68,206 He s My Son.sib
+04/05/2013  06:47 AM            47,805 Heal the Wound Piano and Choir.sib
+04/09/2013  10:04 AM            61,830 Heal the Wound.sib
+01/03/2014  03:43 PM            49,284 Here I Am to Worship.sib
+05/02/2012  07:57 AM            34,906 His Name is Wonderful.sib
+01/24/2009  07:14 PM            77,581 Holy Ground.sib
+10/31/2013  08:10 AM            65,501 Holy Holy Holy Bradley Knight.sib
+03/01/2012  09:35 PM            34,110 Holy Holy Holy D.sib
+09/08/2009  06:39 PM            85,907 Holy Holy Holy.sib
+05/16/2013  10:04 AM    <DIR>          HomeForChristmas2011
+04/07/2011  09:56 AM           114,551 Hosanna in the Highest.sib
+04/18/2013  08:52 AM           106,333 How Can I Keep from Singing.sib
+06/16/2010  07:01 AM           106,208 How Can I Kep from Singing.sib
+06/04/2012  09:20 PM            42,646 How Deep the Father s Love for Use.sib
+11/05/2013  07:50 AM            52,843 How Firm A Foundation Choir Reduction.sib
+11/05/2013  08:46 AM            80,283 How Firm A Foundation.sib
+08/07/2013  08:26 PM            48,947 How Great Is Our God V2.sib
+03/03/2010  10:18 AM            84,493 How Great Is Our God.sib
+12/27/2013  10:19 AM            79,570 How Great Thou Art.sib
+01/11/2012  11:23 AM            83,891 How Majestic is Your Name C.sib
+10/01/2008  12:02 PM            73,926 How Majestic is Your Name.sib
+03/28/2012  07:32 AM            50,057 How Many Lambs.sib
+02/16/2010  08:29 PM            70,475 How.sib
+01/13/2009  08:46 PM            74,241 I Can Pray.sib
+03/18/2013  12:05 PM            53,122 I Did Not Know the Man.sib
+01/26/2010  06:40 PM            72,700 I Give All to You.sib
+05/02/2012  10:36 AM            35,776 I Love to Praise Him.sib
+10/01/2008  11:55 AM            75,129 I Stand In Awe.sib
+08/04/2013  03:36 PM            66,220 I Want to See Jesus Lifted High.sib
+09/23/2013  02:20 PM            53,193 I Will Bless Thee O Lord.sib
+01/22/2011  09:21 PM            49,671 I Will Celebrate.sib
+06/01/2011  08:05 AM            53,989 I Will Sing.sib
+05/02/2012  07:36 AM            36,777 I Willl Call Upon the Lord.sib
+08/18/2009  08:04 PM            72,147 I Worship You, Almighty God.sib
+12/26/2013  03:11 PM            70,418 In Christ Alone Cottrell.sib
+08/31/2013  03:41 PM            46,485 In Christ Alone.sib
+03/14/2013  02:27 PM            40,630 In the First Light (Reprise) Choir Reduction.sib
+03/25/2013  11:09 AM            53,503 In the First Light (Reprise).sib
+03/18/2013  11:16 AM            43,184 In the First Light Choir Reduction.sib
+03/25/2013  11:28 AM            34,249 In the First Light Interlude.sib
+03/14/2013  10:27 AM            54,028 In the First Light Piano rev_Choir.sib
+03/12/2013  09:09 AM            49,083 In the First Light Piano_Choir.sib
+03/25/2013  11:20 AM            53,611 In the First Light Reprise.sib
+03/25/2013  09:06 AM            53,768 In the First Light.sib
+10/22/2013  06:48 AM            55,883 Indescribable Piano Reduction.sib
+10/31/2013  07:48 AM            69,470 Indescribable.sib
+02/16/2012  08:31 AM            36,760 It Is Well with My Soul.sib
+10/03/2013  08:30 AM            44,977 Jesus Messiah 2.sib
+10/09/2013  02:57 PM            66,472 Jesus Messiah Orchestra Edition.sib
+11/08/2011  09:53 PM            45,483 Jesus Messiah.sib
+03/28/2012  07:19 AM            45,080 Jesus No Other Name.sib
+10/10/2013  07:46 AM            70,133 Jesus Saves Cottrell.sib
+10/01/2013  12:50 PM            45,606 Jesus Saves.sib
+01/23/2013  11:09 AM            80,898 Journey Theme Song 2013.sib
+11/27/2013  11:18 AM            73,782 Joy to the World!.sib
+10/25/2013  01:26 PM            55,602 Joyful Joyful.sib
+05/11/2009  06:56 AM            72,677 Lamb of God Ab.sib
+10/21/2008  03:32 PM            71,364 Lamb of God Bb.sib
+10/22/2013  07:06 AM            80,202 Lamb of God Eb.sib
+10/21/2008  03:28 PM            71,402 Lamb of God.sib
+10/04/2011  07:17 PM            32,922 Let the Redeemed.sib
+05/09/2010  08:36 PM            81,510 Let There Be Glory and Honor and Praises.sib
+09/05/2012  10:06 AM            82,518 Let There Be Praise.sib
+09/12/2013  12:03 PM            79,726 Lets Just Praise the Lord.sib
+09/21/2009  10:56 AM             4,931 listofsongs.txt
+07/13/2012  10:00 AM            81,062 Little Brown Jug.sib
+10/10/2013  07:33 AM            81,910 Lord I Lift Your Name On High - G.sib
+10/09/2013  02:50 PM            81,985 Lord I Lift Your Name On High.sib
+10/04/2012  07:32 PM            84,660 Lord Most High.sib
+03/05/2011  06:12 PM            58,733 Lord You re Holy.sib
+04/02/2012  05:53 PM            34,243 Low in the Grave He Lay.sib
+02/16/2012  08:34 AM            86,074 Majesty.sib
+04/05/2013  10:21 AM            32,354 Mercy Mercy Mercy.sib
+02/16/2012  07:34 AM            85,343 Mighty is Our God.sib
+09/16/2010  12:05 PM            90,726 Mighty To Save.sib
+01/24/2009  07:11 PM            71,807 More Precious Than Silver.sib
+09/16/2010  02:45 PM            86,300 My Jesus I Love Thee.sib
+07/17/2012  08:38 PM            39,993 My Life Is in You Lord.sib
+03/24/2011  01:00 PM            95,998 My Redeemer Lives.sib
+09/22/2011  06:57 AM            82,050 No Other Name.sib
+12/02/2013  01:22 PM            55,647 O Come Let Us Adore Him.sib
+12/02/2013  11:32 AM            47,364 O Come O Come Emmanuel.sib
+09/26/2013  01:10 PM            61,678 O For a Thousand Tongues Eb.sib
+09/26/2013  12:42 PM            62,260 O For a Thousand Tongues.sib
+01/25/2013  02:23 PM            39,398 O Gethsemane.sib
+11/05/2013  11:09 AM            66,030 O How I Love Jesus.sib
+09/12/2013  12:19 PM            93,002 Open the Eyes of My Heart.sib
+02/16/2012  08:15 AM            49,424 Orphans of God.sib
+03/21/2013  01:12 PM            49,812 Overture - In the First Light.sib
+10/31/2013  01:52 PM            61,351 Peace in the Valley.sib
+03/01/2008  10:04 AM            71,455 Praise Him Praise Him.sib
+01/23/2013  11:09 AM            43,120 Praise the King.sib
+11/19/2013  12:53 PM            51,725 Praise to the Lord the Almighty Piano Reduction.sib
+11/16/2013  04:41 PM            55,401 Praise to the Lord the Almighty.sib
+10/22/2013  01:24 PM            57,399 Press On.sib
+11/14/2013  08:26 PM            60,140 Rejoice the Lord is King.sib
+04/07/2011  01:17 PM            48,912 Remember Me.sib
+03/25/2013  09:46 AM            80,416 Resurrection Hymn.sib
+09/22/2011  06:58 AM            92,491 Rise Up and Praise Him.sib
+02/11/2010  07:49 PM            68,512 Sanctus.sib
+01/07/2014  10:30 AM                 0 scores.txt
+06/28/2011  12:23 PM            60,801 See Your Glory.sib
+09/10/2011  07:35 PM            83,425 Shine Jesus Shine.sib
+06/15/2009  08:23 PM            71,214 Shine On Us.sib
+10/16/2013  06:41 AM            62,012 Sing to the King.sib
+11/25/2013  01:48 PM            47,888 Sing We Now of Christmas - Bb Tpt Reduction.sib
+03/18/2013  12:04 PM            62,321 So All Alone.sib
+04/10/2013  09:24 AM            13,357 songs.txt
+08/18/2009  06:35 PM            70,488 Soon and Very Soon.sib
+05/16/2008  10:58 AM            77,276 Stand Up and Give Him the Praise Bb.sib
+03/12/2008  01:25 PM            77,561 Stand Up and Give Him the Praise.sib
+10/09/2013  07:30 AM            53,051 Step By Step.sib
+10/04/2011  07:54 PM            36,049 Surely Goodness and Mercy.sib
+05/01/2013  07:24 PM            33,006 Sweet Georgia Brown.sib
+12/13/2012  02:53 PM            72,628 talkin bout Jesus.sib
+06/09/2009  07:13 PM            99,427 Thankful to Be An American.sib
+09/26/2013  02:25 PM            62,480 Thats Why We Praise Him.sib
+01/31/2010  09:53 PM            69,920 The Lord is My Light (solo).sib
+09/23/2013  02:20 PM            69,342 The Majesty and Glory of Your Name.sib
+03/03/2012  11:01 AM            44,043 The Mercy Seat TC (incomplete).sib
+10/19/2011  09:39 AM            90,447 The Solid Rock.sib
+06/27/2011  09:44 AM            37,502 The Star Spangled Banner.sib
+10/16/2013  06:48 AM            68,912 The Wonderful Cross.sib
+11/16/2011  09:30 AM            34,937 There Is A Fountain Hymn.sib
+05/07/2008  07:30 AM            74,047 There is a Fountain.sib
+01/04/2012  02:18 PM            33,575 There is a Name I Love to Hear.sib
+09/12/2013  12:13 PM            71,542 There is Power in the Blood.sib
+09/20/2012  12:37 PM            82,830 Theres Just Something About That Name.sib
+11/20/2013  02:45 PM            48,104 Thou Art Worthy.sib
+07/14/2010  01:47 PM            89,989 Tis So Sweet to Trust in Jesus.sib
+01/24/2009  07:51 PM            77,883 To God Be the Glory.sib
+12/30/2012  08:11 PM            35,831 Trust and Obey.sib
+04/12/2011  12:59 PM            47,937 Via Dolorosa.sib
+08/31/2013  03:39 PM            64,475 Victory In Jesus TC.sib
+03/30/2010  08:30 PM            80,298 Victory In Jesus.sib
+11/19/2013  10:26 AM            52,324 We Are and Offering.sib
+06/05/2012  01:01 PM            37,410 We Bow Down.sib
+08/10/2012  10:37 AM            38,712 We Bring the Sacrifice of Praise.sib
+03/18/2013  12:00 PM            56,504 We Cry Hosanna Lord.sib
+01/25/2013  03:16 PM            36,406 We Cry Hosanna Lord_Vocal.sib
+10/22/2013  07:06 AM            68,701 We re Marching to Zion.sib
+10/22/2013  07:02 AM            50,523 We Will Glorify.sib
+11/14/2013  02:53 PM            59,249 We Will Remember - Tommy Walker Db-Eb Choir Reduction.sib
+11/14/2013  08:32 PM            72,148 We Will Remember - Tommy Walker Db-Eb.sib
+11/08/2013  11:16 AM            73,869 We Will Remember - Tommy Walker.sib
+11/14/2013  10:48 AM            70,383 We Will Remember - Working.sib
+11/14/2013  10:38 AM            54,199 We Will Remember - Working2.sib
+09/16/2010  07:48 PM            80,679 We Will Remember.sib
+10/19/2011  09:45 AM            87,394 We're On a Journey.sib
+09/22/2009  07:45 PM            70,231 What a Friend We Have In Jesus.sib
+06/15/2009  11:11 AM            75,928 What a Mighty God We Serve.sib
+04/14/2013  07:48 PM            44,566 When We All Get to Heaven.sib
+09/18/2013  11:53 AM            86,410 Who Can Satisfy My Soul.sib
+11/19/2013  10:35 AM            48,534 With All My Heart.sib
+12/27/2013  10:17 AM            87,517 Wonderful Merciful Savior Ab.sib
+01/31/2011  12:16 PM            89,700 Wonderful Merciful Savior.sib
+12/31/2013  01:22 PM            53,322 Worthy of Worship.sib
+08/10/2012  08:48 AM            48,534 Worthy VBS 2012.sib
+09/13/2011  02:31 PM            38,274 Worthy You Are Worthy.sib
+07/26/2012  01:52 PM            30,674 Worthy.sib
+09/20/2012  12:40 PM            51,489 Written In Red.sib
+01/19/2010  09:32 PM            83,881 Ye Shall Be Witnesses.sib
+08/22/2011  08:02 PM           115,134 You Are (with Lyrics) 2.sib
+05/06/2010  10:20 AM           112,465 You Are (with Lyrics).sib
+09/13/2011  04:56 PM            34,081 You Are My All in All.sib
+04/24/2009  10:38 AM            81,385 You Are.sib
+05/27/2011  09:00 AM            44,831 You Said.sib
+             278 File(s)     17,630,418 bytes
+               8 Dir(s)  36,358,397,952 bytes free

@@ -1,0 +1,82 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1CEC-7F9B
+
+ Directory of C:\Documents and Settings\hbeckner\My Documents\Scores
+
+09/21/2009  11:56 AM    <DIR>          .
+09/21/2009  11:56 AM    <DIR>          ..
+05/06/2008  09:44 AM            71,459 A Mighty Fortress Bb.sib
+05/03/2008  09:17 PM            71,469 A Mighty Fortress.sib
+05/21/2009  12:42 PM            96,934 All the Earth.sib
+09/02/2009  12:55 PM            70,765 All Things.sib
+04/22/2009  01:19 PM            73,021 Almighty.sib
+09/18/2009  05:55 PM            75,901 An Old Fashioned Christmas.sib
+09/06/2009  08:46 AM            75,637 Ancient of Days.sib
+09/20/2009  08:58 PM            87,928 AOFC Christmas Praise.sib
+09/17/2009  07:14 PM            71,783 AOFC Prolog.sib
+09/20/2009  04:56 PM            79,696 AOFC Ring Those Christmas Bells.sib
+09/19/2009  09:07 AM            78,811 AOFC Silent Night.sib
+01/24/2009  08:28 PM            77,424 Awesome In this Place.sib
+09/20/2009  08:58 PM    <DIR>          Backup Scores
+09/06/2009  07:50 PM            73,121 Be Bold, Be Strong.sib
+09/06/2009  06:59 PM            72,039 Be Strong in the Lord.sib
+01/22/2008  04:41 PM            73,015 Bless His Holy Name.sib
+06/04/2008  10:24 AM            69,492 Bless the Lord O My Soul.sib
+06/18/2009  12:34 PM            77,344 Blessed Assurance.sib
+01/08/2009  03:20 PM            18,944 Catalog.xls
+01/08/2009  02:41 PM    <DIR>          Christmas
+06/15/2009  08:05 PM            70,378 Come Thou Fount.sib
+04/15/2009  12:41 PM    <DIR>          Easter 2009
+08/27/2009  02:19 PM            81,303 Everlasting God.sib
+11/01/2007  07:38 PM             1,846 Example Scores.lnk
+06/12/2008  07:27 PM            70,342 Faith of Our Fathers.sib
+10/01/2008  01:06 PM            86,024 Friend of God.sib
+08/18/2009  08:06 PM            70,788 Get All Excited in G.sib
+08/18/2009  08:05 PM            70,756 Get All Excited.sib
+01/27/2009  03:44 PM            73,305 Great and Mighty.sib
+05/06/2008  09:45 AM            72,714 Great is the Lord Bb.sib
+03/01/2008  12:47 PM            72,707 Great is the Lord.sib
+06/04/2008  10:49 AM            73,136 Great Is Thy Faithfulness.sib
+08/18/2009  08:27 PM            69,023 Greater Is He That Is in Me.sib
+01/27/2008  04:10 PM            74,177 He Has Made Me Glad.sib
+04/16/2009  03:59 PM            74,010 He Is Lord.sib
+01/24/2009  08:14 PM            77,581 Holy Ground.sib
+09/08/2009  07:39 PM            85,907 Holy Holy Holy.sib
+09/02/2009  11:05 AM            96,577 Hosanna in the Highest.sib
+04/22/2009  01:28 PM            72,426 How Great Thou Art.sib
+06/15/2009  12:12 PM            73,884 How Majestic is Your Name C.sib
+10/01/2008  01:02 PM            73,926 How Majestic is Your Name.sib
+01/13/2009  09:46 PM            74,241 I Can Pray.sib
+10/01/2008  12:55 PM            75,129 I Stand In Awe.sib
+08/18/2009  09:04 PM            72,147 I Worship You, Almighty God.sib
+05/11/2009  07:56 AM            72,677 Lamb of God Ab.sib
+10/21/2008  04:32 PM            71,364 Lamb of God Bb.sib
+05/11/2009  12:21 PM            72,787 Lamb of God Eb.sib
+10/21/2008  04:28 PM            71,402 Lamb of God.sib
+09/21/2009  11:56 AM                 0 listofsongs.txt
+09/17/2008  01:01 PM            73,628 Lord I Lift Your Name On High.sib
+09/17/2008  12:53 PM            74,954 Majesty.sib
+04/22/2009  01:30 PM            73,998 Mighty is Our God.sib
+01/24/2009  08:11 PM            71,807 More Precious Than Silver.sib
+01/24/2009  08:56 PM            84,598 My Redeemer Lives.sib
+01/07/2009  03:40 PM            71,673 No Other Name.sib
+01/24/2009  08:48 PM            81,346 Open the Eyes of My Heart.sib
+03/01/2008  11:04 AM            71,455 Praise Him Praise Him.sib
+01/27/2009  02:26 PM            82,895 Rise Up and Praise Him.sib
+04/22/2009  04:50 PM            73,566 Shine Jesus Shine.sib
+06/15/2009  09:23 PM            71,214 Shine On Us.sib
+08/18/2009  07:35 PM            70,488 Soon and Very Soon.sib
+05/16/2008  11:58 AM            77,276 Stand Up and Give Him the Praise Bb.sib
+03/12/2008  02:25 PM            77,561 Stand Up and Give Him the Praise.sib
+10/06/2008  03:37 PM           526,021 SundayOct12.zip
+06/09/2009  08:13 PM            99,427 Thankful to Be An American.sib
+05/07/2008  08:30 AM            74,047 There is a Fountain.sib
+10/01/2008  01:05 PM            73,528 Theres Just Something About That Name.sib
+01/24/2009  08:51 PM            77,883 To God Be the Glory.sib
+06/15/2009  12:11 PM            75,928 What a Mighty God We Serve.sib
+09/12/2009  07:15 PM            75,943 Who Can Satisfy My Soul.sib
+01/29/2008  12:41 PM            80,325 Wonderful Merciful Savior.sib
+05/14/2009  11:49 AM           102,640 You Are (with Lyrics).sib
+04/24/2009  11:38 AM            81,385 You Are.sib
+              70 File(s)      5,588,926 bytes
+               5 Dir(s)  45,389,193,216 bytes free

@@ -1,0 +1,24 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8044-3F52
+
+ Directory of C:\Documents and Settings\hbeckner\My Documents\Scores\Easter 2009
+
+09/27/2011  07:58 AM    <DIR>          .
+09/27/2011  07:58 AM    <DIR>          ..
+09/27/2011  07:58 AM                 0 Easter.txt
+03/04/2009  12:14 PM            88,628 Father Forgive Them.sib
+04/03/2009  11:03 AM            99,624 Finale.sib
+04/03/2009  11:02 AM            93,738 He Is the One.sib
+03/25/2009  09:27 AM            89,602 I Knew He Was Love.sib
+03/10/2009  09:04 PM            77,372 Kingdom Song.sib
+04/03/2009  11:06 AM            85,038 O High and Holy One.sib
+01/23/2009  08:44 PM            68,930 Transition 1.sib
+03/18/2009  09:18 AM            70,336 Transition 2.sib
+03/18/2009  09:19 AM            68,756 Transition 3.sib
+03/18/2009  10:26 AM            68,502 Transition 4.sib
+03/20/2009  03:07 PM            66,354 Transition 5.sib
+04/03/2009  10:53 AM            88,187 We Followed the Man.sib
+04/01/2009  02:16 PM            75,471 When I Survey the Wondrous Cross.sib
+02/17/2009  10:37 PM            91,517 You Are the Christ.sib
+              15 File(s)      1,132,055 bytes
+               2 Dir(s)  52,235,653,120 bytes free
